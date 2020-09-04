@@ -1,0 +1,6 @@
+setup.py
+puddle_world.egg-info/PKG-INFO
+puddle_world.egg-info/SOURCES.txt
+puddle_world.egg-info/dependency_links.txt
+puddle_world.egg-info/requires.txt
+puddle_world.egg-info/top_level.txt
