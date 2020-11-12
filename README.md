@@ -16,5 +16,6 @@ Regarding the programming assignments, always write up code from sratch, on your
 
 You might have to read some research papers for solving the written assignments. It'll be quite irritating at first, but as you grind more and more, you'll become comfortable at it. After finishing this course, you'll have the confidence and the drive to take up courses solely based on interests without worrying about the difficulty level.
 
-*ALL THE BEST! EMBRACE THE LEARNING.*
+
+*ALL THE BEST! EMBRACE THE LEARNING*
 
